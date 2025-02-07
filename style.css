@@ -3,6 +3,7 @@ body {
     align-items: center;
     justify-content: center;
     height: 100vh;
+    background-color: #E0E0E0;
 }
 
 .container {

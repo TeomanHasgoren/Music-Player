@@ -16,5 +16,8 @@ const musicList = [
     new Music("Boşver", "Nilüfer","1.jpeg","1.mp3"),    
     new Music("Bu da Geçer mi Sevgilim", "Yalın","2.jpeg","2.mp3"),    
     new Music("Aramızda Uçurumlar", "Suat Suna","3.jpeg","3.mp3"),    
-    new Music("Neyin Nesi", "Dolu Kadehi Ters Tut","4.jpeg","4.mp3")
+    new Music("Neyin Nesi", "Dolu Kadehi Ters Tut","4.jpeg","4.mp3"),
+    new Music("Aşkın Olayım", "Simge Sağın","5.jpg","5.mp3"),
+    new Music("Bütün İstanbul Biliyo", "İkiye On Kala","6.jpg","6.mp3"),
+
 ];

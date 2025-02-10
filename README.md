@@ -1,5 +1,3 @@
-6. Music-Player
-
 Description:
 This project contains a music player application built using JavaScript.
 
